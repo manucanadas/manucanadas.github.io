@@ -1,3 +1,11 @@
-p {
-    color: red;
+.background {
+    background-color: rgb(99, 174, 224);
+}
+
+.page_tittle {
+    background-color: blueviolet;
+}
+
+.header {
+    background-color: burlywood;
 }
