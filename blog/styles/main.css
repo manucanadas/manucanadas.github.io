@@ -1,11 +1,41 @@
 .background {
-    background-color: rgb(99, 174, 224);
+    background-color: rgb(46, 151, 212);
+    border-style: solid;
+    border-color: black;
+    margin: 8px;
+    padding: 15px;
+
 }
 
 .page_tittle {
-    background-color: blueviolet;
+    background-color: rgb(41, 53, 223);
+    text-align: center;
+    font-family: Lobster, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 }
 
 .header {
     background-color: burlywood;
+}
+
+body {
+    margin: -8px;
+
+}
+
+h1 {
+    font-size: 70px;
+
+}
+
+h2 {
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
 }
