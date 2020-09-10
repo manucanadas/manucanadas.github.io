@@ -9,7 +9,13 @@
 }
 
 .list {
+    text-align: center;
+    list-style: inside; 
     font-family: Caveat, cursive;
     font-size: 30px;
     margin-top: 200px;
+}
+
+ul {
+    list-style: none;
 }
