@@ -1,0 +1,15 @@
+.header {
+    text-align: center;
+    font-family: Permanent Marker, cusive;
+    color: gold;
+    font-size: 50px;
+    text-decoration: underline;
+    margin-top: 100px;
+    background: rgb(54, 170, 216);
+}
+
+.list {
+    font-family: Caveat, cursive;
+    font-size: 30px;
+    margin-top: 200px;
+}
