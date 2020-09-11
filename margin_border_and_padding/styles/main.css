@@ -9,15 +9,17 @@ header {
 
 h1 {
     font-family: Permanent Marker, cursive;
-    font-size: 30px;
+    font-size: 50px;
 }
 
 h2 {
     font-family: Caveat, cursive;
-    font-size: 30px;
+    font-size: 40px;
     
 }
 
 p {
     font-family: Kufam, cursive;
+    font-size: 20px;
+
 }
