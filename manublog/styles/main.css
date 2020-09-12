@@ -1,14 +1,14 @@
-.header {
+header {
     text-align: center;
     font-family: Permanent Marker, cusive;
     color: gold;
-    font-size: 50px;
+    font-size: 100px;
     text-decoration: underline;
     margin-top: 100px;
     background: rgb(54, 170, 216);
 }
 
-.list {
+h1 {
     text-align: center;
     list-style: inside; 
     font-family: Caveat, cursive;
@@ -17,5 +17,8 @@
 }
 
 ul {
+    font-family: Kufam, cursive;
     list-style: none;
+    text-align: center;
+    margin-top: 50px;
 }
